@@ -1,5 +1,5 @@
 - 👋 Oi, sou @SimeerSeed
-- 👀 Eu estou interessado em aprender programação básica.
+- 👀 Eu sou um iniciante no mundo da tecnologia e estou interessado em aprender programação e resolver problemas com lógica.
 - 🌱 Atualmente estou aprendendo as linguagens C++ e Phyton.
 
 <!---
