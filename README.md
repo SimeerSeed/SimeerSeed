@@ -1,8 +1,6 @@
 - 👋 Oi, sou @SimeerSeed
 - 👀 Eu estou interessado em aprender programação básica.
-- 🌱 Atualmente estou aprendendo HTML5 e CSS3.
-- 💞️ Não estou procurando por colaborações no momento.
-- 📫 How to reach me ...
+- 🌱 Atualmente estou aprendendo as linguagens C++ e Phyton.
 
 <!---
 SimeerSeed/SimeerSeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
