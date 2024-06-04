@@ -1,6 +1,6 @@
 - 👋 Oi, sou @SimeerSeed
 - 👀 Eu sou um iniciante no mundo da tecnologia e estou interessado em aprender programação e resolver problemas com lógica.
-- 🌱 Atualmente estou aprendendo as linguagens C++ e Phyton.
+- 🌱 Atualmente estou aprendendo as linguagens C++, Java e Phyton na EBAC!
 
 <!---
 SimeerSeed/SimeerSeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
