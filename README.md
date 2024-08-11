@@ -1,6 +1,6 @@
 💻 Atualmente estudando Programação na EBAC
 
-🌍 Baseado no Rio de Janeiro, Brasil
+🌍 Moro no Rio de Janeiro, Brasil
 
 🌟 Focado em criar soluções de software criativas e eficientes
 
